@@ -1,4 +1,4 @@
-Reproduces a Prisma Miniflare 2 bug where displays the following error
+Reproduces a bug where Prisma doesn't work in the Miniflare 2 Jest environment:
 
 > PrismaClient is unable to run in this browser environment, or has been bundled for the browser (running in `node`).
 
